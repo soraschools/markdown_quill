@@ -13,7 +13,7 @@ dependencies:
   flutter_quill:
     git: 
       url: https://github.com/soraschools/flutter-quill
-      ref: a38869b5f3f67ff08afa366a924b6adf567ed421
+      ref: b2a4a831f47c7e794bc23a6981d2f34f37b3c7b9
   markdown: ^7.1.0
 
 dev_dependencies:
